@@ -358,7 +358,7 @@ const runScript = async () => {
   } else {
     console.error('🚨 Tribe not found!'.red);
     console.log(
-      `Join HCA Tribe here: https://t.me/HappyCuanAirdrop/19694\n`.blue
+      `Join Tribe đi ae\n`.blue
     );
   }
 
