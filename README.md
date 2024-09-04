@@ -49,7 +49,7 @@ The One-time Flow will continuously execute these tasks, handling errors gracefu
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/dante4rt/blum-airdrop-bot.git
+    git clone https://github.com/tranvgiang/blum-airdrop-bot.git
     ```
 
 2. **Navigate to the project directory:**
@@ -76,7 +76,7 @@ The One-time Flow will continuously execute these tasks, handling errors gracefu
 
    - To find your `QUERY_ID`, follow these steps:
      1. Open [Web Telegram](https://web.telegram.org) in your browser.
-     2. Open the [Blum Bot](https://t.me/BlumCryptoBot/app?startapp=ref_vTHusRz4j0).
+     2. Open the [Blum Bot](https://t.me/blum/app/app?startapp=ref_TKfBpIO1mG).
      3. Open DevTools (right-click on the page and select "Inspect" or press `F12`).
      4. Go to the "Application" tab, then "Local Storage", and choose `https://telegram.blum.codes`.
      5. Find `QUERY_ID`, copy its value.
@@ -96,14 +96,6 @@ To start the bot and choose a flow:
 2. **Choose the script to run:**
    - **Default Flow**: Manually select tasks and optionally set up automation.
    - **One-time Flow**: Run a continuous sequence of tasks automatically.
-
-## Donations
-
-If you would like to support the development of this project, you can make a donation using the following addresses:
-
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
 
 ## License
 
